@@ -7,19 +7,20 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = "So Fresh & So Clean"
+  # description = "So Fresh & So Clean"
+  description = "Web Designer, Developer and Guru"
   logo = "fa-diamond"
-  copyright = "Obi Knows Inc, LLC"
+  copyright = "Obi Knows Inc"
 
 [[params.social]]
   medium = "twitter"
   icon = "twitter"
   link = "https://twitter.com/obiiiknows"
 
-[[params.social]]
-  medium = "instagram"
-  icon = "instagram"
-  link = "#"
+# [[params.social]]
+#   medium = "instagram"
+#   icon = "instagram"
+#   link = "#"
 
 [[params.social]]
   medium = "github"
